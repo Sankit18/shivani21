@@ -1,0 +1,151 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: black;
+    color: #FFDF00;
+}
+
+.top-container{
+  background-color: #f4f6ff;
+  /* background-color: black; */
+}
+
+.middle-container{
+    margin-top: 20px;
+    background-color: black;
+}
+
+
+.bottom-container{
+  position: absolute;
+  top: 3300px;
+  background-color: #f4f6ff;
+  height: 150px;
+  width: 100%;
+color: #900048;
+font-size: 1.5rem
+}
+
+h1{
+  margin: 0;
+  text-align: center;
+  color: #f5564e;
+}
+
+.shivani1{
+  border-radius: 100%;
+}
+
+.shivani2{
+  border-radius: 100%;
+  width: 65%;
+  float: left;
+  position: relative;
+  left: 150px;
+}
+
+h2{
+  position: absolute;
+  left: 450px;
+  top: 1350px;
+  /* background-color: red; */
+  height: 160px;
+  width: 600px;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+.shivani3{
+  border-radius: 100%;
+  /* width: 65%; */
+  height: 400px;
+  width: 310px;
+  float: right;
+  position: relative;
+  left: 750px;
+}
+
+h3{
+  position: absolute;
+  left: 260px;
+  top: 1750px;
+  /* background-color: red;*/
+  height: 150px;
+  width: 575px;
+  font-size: 1.5rem;
+text-align: justify;
+}
+
+.shivani4{
+  border-radius: 100%;
+  /* width: 65%; */
+  height: 375px;
+  width: 300px;
+  float: left;
+  position: relative;
+  left: 140px;
+}
+
+h4{
+  position: absolute;
+  left: 460px;
+  top: 2150px;
+  /* background-color: red; */
+  height: 150px;
+  width: 560px;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+
+.shivani5{
+  border-radius: 100%;
+  /* width: 65%; */
+  height: 400px;
+  width: 310px;
+  float: right;
+  position: relative;
+  left: 750px;
+}
+
+h5{
+  position: absolute;
+  left: 350px;
+  top: 2520px;
+  /* background-color: red; */
+  height: 150px;
+  width: 500px;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+.shivani6{
+  border-radius: 100%;
+  /* width: 65%; */
+  height: 375px;
+  width: 300px;
+  float: left;
+  position: relative;
+  left: 140px;
+}
+
+h6{
+  position: absolute;
+  left: 460px;
+  top: 2860px;
+  /* background-color: red; */
+  height: 150px;
+  width: 660px;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+h7{font-size: 1.5rem;
+text-align: justify;
+}
+
+.poem{
+  background-color: black;
+  width: 30%;
+  text-align: center;
+}
